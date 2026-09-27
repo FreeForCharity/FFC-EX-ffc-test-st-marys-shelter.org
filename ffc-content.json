@@ -1,0 +1,30 @@
+{
+  "domain": "ffc-test-st-marys-shelter.org",
+  "charityName": "St. Mary's Shelter & Kitchen",
+  "websiteSituation": "New charity domain name and new charity website",
+  "currentWebsiteUrl": "",
+  "domainRegistrar": "No domain yet",
+  "requesterGitHubUsername": "clarkemoyer",
+  "technicalPocGitHubUsername": "",
+  "cloudflareZoneControlled": false,
+  "footer": {
+    "email": "office@st-marys-shelter.example",
+    "phone": "555-010-0202",
+    "address": "18 Chapel Lane\nSpringfield, IL 62701",
+    "ein": "99-0000202",
+    "irsStatus": "Not yet / pending (pre-501(c)(3))",
+    "guideStarProfileUrl": "",
+    "guideStarDirectProfileUrl": "",
+    "socialLinks": [
+      "facebook: https://www.facebook.com/ffc-test-stmarys",
+      "x: https://x.com/ffcteststmarys",
+      "linkedin: https://www.linkedin.com/company/ffc-test-stmarys",
+      "github: https://github.com/ffc-test-stmarys"
+    ],
+    "mission": "We offer a warm bed, a hot meal and a friendly face to anyone sleeping rough in our town.",
+    "donationUrl": "",
+    "volunteerUrl": ""
+  },
+  "leadership": ["President - Maria O'Brien", "Treasurer - Tom Nguyen", "Secretary - Priya Shah"],
+  "generatedUtc": "2026-09-27T22:23:47.4333322Z"
+}
